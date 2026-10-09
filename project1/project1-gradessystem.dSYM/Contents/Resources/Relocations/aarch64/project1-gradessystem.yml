@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/yangchenyu/Desktop/大一/project1/project1-gradessystem"
+relocations:     []
+...
